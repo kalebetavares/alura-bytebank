@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="alura-bytebank:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/alura_bytebank_jar</output-path>
+    <root id="archive" name="alura-bytebank.jar">
+      <element id="module-output" name="alura-bytebank" />
+    </root>
+  </artifact>
+</component>
