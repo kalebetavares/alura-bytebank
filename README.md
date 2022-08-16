@@ -1,2 +1,2 @@
 # alura-bytebank
-Projeto de estudos em Java através da Plataforma da Alura
+Projeto de estudos em Java através da plataforma da Alura
